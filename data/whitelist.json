@@ -119,6 +119,10 @@
         {
             "id": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
             "description": "Chromium PDF Viewer"
+        },
+        {
+            "id": "komainihbiaopejdcakhjbjmglkcfhgb",
+            "description": "Dissenter Extension"
         }
     ],
     "blacklist": [
